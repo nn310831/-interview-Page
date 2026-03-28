@@ -134,7 +134,7 @@ const App = () => {
                 <div className="w-12 h-12 bg-blue-100 text-blue-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
                   <Briefcase className="w-6 h-6" />
                 </div>
-                <h4 className="text-xl font-bold text-slate-900 mb-1">商業與技術的轉譯者</h4>
+                <h4 className="text-xl font-bold text-slate-900 mb-1">商業與技術</h4>
                 <div className="text-xs font-mono text-blue-600 mb-5">Bridge between Business & Tech</div>
                 <ul className="space-y-4 text-sm text-slate-600 leading-relaxed">
                   <li>
